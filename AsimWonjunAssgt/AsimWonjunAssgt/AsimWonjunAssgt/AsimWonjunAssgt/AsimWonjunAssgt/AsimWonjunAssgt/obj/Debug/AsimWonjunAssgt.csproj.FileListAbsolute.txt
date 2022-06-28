@@ -1,0 +1,99 @@
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csprojAssemblyReference.cache
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.frmWelcome.resources
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.Properties.Resources.resources
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csproj.GenerateResource.cache
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csproj.CoreCompileInputs.cache
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.exe.config
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.exe
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.pdb
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.exe
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.pdb
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.frmGroan.resources
+D:\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.exe.config
+D:\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.exe
+D:\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.pdb
+D:\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csprojAssemblyReference.cache
+D:\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.frmGroan.resources
+D:\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.frmWelcome.resources
+D:\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.Properties.Resources.resources
+D:\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csproj.GenerateResource.cache
+D:\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csproj.CoreCompileInputs.cache
+D:\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.exe
+D:\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.pdb
+C:\Users\jwj04\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.exe.config
+C:\Users\jwj04\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.exe
+C:\Users\jwj04\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.pdb
+C:\Users\jwj04\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csprojAssemblyReference.cache
+C:\Users\jwj04\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.frmGroan.resources
+C:\Users\jwj04\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.frmWelcome.resources
+C:\Users\jwj04\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.Properties.Resources.resources
+C:\Users\jwj04\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csproj.GenerateResource.cache
+C:\Users\jwj04\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csproj.CoreCompileInputs.cache
+C:\Users\jwj04\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.exe
+C:\Users\jwj04\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.pdb
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.exe.config
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.exe
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.pdb
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csprojAssemblyReference.cache
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.frmGroan.resources
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.frmWelcome.resources
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.Properties.Resources.resources
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csproj.GenerateResource.cache
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csproj.CoreCompileInputs.cache
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.exe
+U:\Courses\INFT2012 Appliction Programing\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.pdb
+J:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.exe.config
+J:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.exe
+J:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.pdb
+J:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csprojAssemblyReference.cache
+J:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.frmGroan.resources
+J:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.frmWelcome.resources
+J:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.Properties.Resources.resources
+J:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csproj.GenerateResource.cache
+J:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csproj.CoreCompileInputs.cache
+J:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.exe
+J:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.pdb
+D:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.exe.config
+D:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.exe
+D:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.pdb
+D:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csprojAssemblyReference.cache
+D:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.frmGroan.resources
+D:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.frmWelcome.resources
+D:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.Properties.Resources.resources
+D:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csproj.GenerateResource.cache
+D:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csproj.CoreCompileInputs.cache
+D:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.exe
+D:\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.pdb
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.exe.config
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.exe
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.pdb
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csprojAssemblyReference.cache
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.frmGroan.resources
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.frmWelcome.resources
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.Properties.Resources.resources
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csproj.GenerateResource.cache
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csproj.CoreCompileInputs.cache
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.exe
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt123\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.pdb
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.exe.config
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.exe
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.pdb
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csprojAssemblyReference.cache
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.frmGroan.resources
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.frmWelcome.resources
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.Properties.Resources.resources
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csproj.GenerateResource.cache
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csproj.CoreCompileInputs.cache
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.exe
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.pdb
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.exe.config
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.exe
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\bin\Debug\AsimWonjunAssgt.pdb
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csprojAssemblyReference.cache
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.frmGroan.resources
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.frmWelcome.resources
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.Properties.Resources.resources
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csproj.GenerateResource.cache
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.csproj.CoreCompileInputs.cache
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.exe
+\\zfssa0\home_student\c3296512\Profile\Desktop\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\AsimWonjunAssgt\obj\Debug\AsimWonjunAssgt.pdb
