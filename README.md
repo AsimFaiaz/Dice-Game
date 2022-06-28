@@ -1,2 +1,4 @@
 # Dice-Game
 INFT2012 - Application Programming using Object Oriented C#
+ONLY FOR EDUCATIONAL OR LEARNING Purposes
+# NOT TO BE USED IN ANY KIND OF UNIVERSITY ASSIGNMENTS OR PROJECTS 
